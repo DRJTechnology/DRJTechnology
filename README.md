@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DRJTechnology
+- 👋 Hi, I’m Dave Brown
 - 👀 I’m interested in web application development
-- 🌱 I’m currently maintaining my exposure to the latest Microsoft technologies
+- 🌱 I’m currently working on a property rental management system
 - 💞️ I’m looking to collaborate on interesting web application projects
 - 📫 I can be reached at dave.brown@drjtechnology.co.uk

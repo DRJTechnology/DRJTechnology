@@ -4,7 +4,7 @@ Since 2007, I have been working as an independent contractor, providing my exper
 
 Recently, I have been working with Microsoft Blazor, a framework for building web applications using C# and .NET. I find it to be a powerful tool, allowing front-end development using the same C# syntax as the middle and back-end application layers.
 
-I am passionate about coding and enjoy staying up-to-date with the latest technologies and trends. I am always looking for new challenges and opportunities to learn work with like-minded developers.
+I am passionate about coding and enjoy staying up-to-date with the latest technologies and trends. I am always looking for new challenges and opportunities to learn and work with like-minded developers.
 
 
 - 📫 I can be reached at dave.brown@drjtechnology.co.uk

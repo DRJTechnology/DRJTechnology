@@ -8,4 +8,5 @@ I am passionate about coding and enjoy staying up-to-date with the latest techno
 
 
 - 📫 I can be reached at dave.brown@drjtechnology.co.uk
-- 🌐 [My linkedin profile](https://www.linkedin.com/in/davebrownuk?trk=contact-info)
+- 🌐 [www.linkedin.com/in/davebrownuk)
+](https://www.linkedin.com/in/davebrownuk)
